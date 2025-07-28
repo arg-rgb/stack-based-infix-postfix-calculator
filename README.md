@@ -75,7 +75,7 @@ The calculator handles:
 
 4.  **Memory Management**: Dynamic linked list-based stacks
 
-**## Features**
+## Features
 
 **✅ Supported Operations**
 
@@ -108,9 +108,9 @@ The calculator handles:
 
 - **Error Reporting**: Clear error messages for invalid expressions
 
-**## Algorithm Theory**
+## Algorithm Theory
 
-**Shunting Yard Algorithm**
+## Shunting Yard Algorithm
 
 The **Shunting Yard Algorithm**, developed by Edsger Dijkstra in 1961,
 converts infix expressions to postfix notation. Named after railroad
@@ -150,7 +150,7 @@ Process:  3 → output``
 ``Postfix:  3 4 2 * +``
 `
 
-**Postfix Expression Evaluation**
+## Postfix Expression Evaluation
 
 Postfix evaluation uses a **operand stack** where:
 
@@ -171,7 +171,7 @@ Process:  3 → push to stack: [3]``
 ``Result:   11``
 `
 
-**Code Structure**
+## Code Structure
 
 **File Organization**
 
@@ -192,7 +192,7 @@ Process:  3 → push to stack: [3]``
 └── Main Function (File I/O)``
 `
 
-**Data Structures**
+## Data Structures
 
 **Stack Node Structures**
 
@@ -221,7 +221,7 @@ Out) access:
 
 - `valStack`: Global pointer to value stack top
 
-**Core Functions**
+## Core Functions
 
 **Stack Operations**
 
@@ -303,7 +303,7 @@ Performs arithmetic operations:
 
 4.  Return final stack value
 
-**Installation and Usage**
+## Installation and Usage
 
 **Prerequisites**
 
@@ -327,7 +327,7 @@ Performs arithmetic operations:
 
 3.  Check results in `output.txt`
 
-**Input File Format (**`input.txt`**)**
+## Input File Format (**`input.txt`**)
 
 `12 + 34 * (56 - 7)``
 100 / (5 + 5)  ``
@@ -335,7 +335,7 @@ Performs arithmetic operations:
 (15 + 25) * 2``
 `
 
-**Output File Format (**`output.txt`**)**
+## Output File Format (**`output.txt`**)
 
 `1678``
 10``
@@ -343,7 +343,7 @@ Performs arithmetic operations:
 ``80``
 `
 
-**Examples**
+## Examples
 
 **Example 1: Basic Operations**
 
@@ -409,7 +409,7 @@ Performs arithmetic operations:
 
 - **Result:** `30`
 
-**Error Handling**
+## Error Handling
 
 The program includes comprehensive error handling:
 
@@ -449,7 +449,7 @@ The program includes comprehensive error handling:
 
 Safe handling of malloc failures.
 
-**Implementation Details**
+## Implementation Details
 
 **Memory Management**
 
@@ -486,7 +486,7 @@ Prevents interference between expressions.
 ``}``
 `
 
-**Performance Analysis**
+## Performance Analysis
 
 **Time Complexity**
 
@@ -512,7 +512,7 @@ Prevents interference between expressions.
 
 3.  **No Recursion**: Iterative approach saves stack space
 
-**Known Limitations**
+## Known Limitations
 
 **Current Restrictions**
 
@@ -532,7 +532,7 @@ Prevents interference between expressions.
 
 3.  **Deeply Nested**: Stack overflow with extreme nesting
 
-**Future Enhancements**
+## Future Enhancements
 
 **Planned Features**
 
@@ -556,7 +556,7 @@ Prevents interference between expressions.
 
 4.  **Unicode Support**: International number formats
 
-**Contributing**
+## Contributing
 
 **How to Contribute**
 
@@ -590,7 +590,7 @@ Prevents interference between expressions.
 
 - Validate against mathematical calculators
 
-**License**
+## License
 
 This project is licensed under the MIT License - see the
 [[LICENSE.md]
@@ -613,8 +613,11 @@ This project is licensed under the MIT License - see the
 
 - **File I/O**: Standard C library functions (fopen, fgets, fprintf)
 
-**Author**: arg-rgb.  
-**Date**: 20th july to 28th july 2025.
+**Author:** Argha Ghosh  
+**GitHub:** [arg-rgb](https://github.com/arg-rgb)  
+**Email:** tojog75@gmail.com
+  
+**Date Developed**: 20th july to 28th july 2025.
 
 For questions or support, please open an issue in the repository or
 contact \[tojog75@gmail.com\].
