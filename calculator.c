@@ -7,9 +7,9 @@
 #define MAX 100
 
 // Stack node for characters (operators)
-struct CharNode {
+struct CNode {
     char data;
-    struct CharNode *link;
+    struct CNode *link;
 };
 
 // Stack node for integers (evaluation)
@@ -18,12 +18,12 @@ struct IntNode {
     struct IntNode *link;
 };
 
-struct CharNode *opStack = NULL;
+struct CNode *opStack = NULL;
 struct IntNode *valStack = NULL;
 
 // ---------- Stack Functions ----------
 void pushChar(char c) {
-    struct CharNode *newnode = (struct CharNode*)malloc(sizeof(struct CharNode));
+    struct CNode *newnode = (struct CNode*)malloc(sizeof(struct CNode));
     if(newnode == NULL){
         return;
     }
@@ -35,7 +35,7 @@ void pushChar(char c) {
 char popChar() {
     if (opStack == NULL) 
         return '\0';
-    struct CharNode *temp = opStack;
+    struct CNode *temp = opStack;
     char val = temp->data;
     opStack = opStack->link;
     free(temp);
