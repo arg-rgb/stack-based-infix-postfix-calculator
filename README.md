@@ -7,42 +7,42 @@ postfix expression using stack-based evaluation.
 
 **Table of Contents**
 
-- [[Overview]](#**Overview**)
+- [Overview](#overview)
 
-- [[Features]](#features)
+- [Features](#features)
 
-- [[Algorithm Theory]](#algorithm-theory)
+- [Algorithm Theory](#algorithm-theory)
 
-  - [[Shunting Yard Algorithm]](#shunting-yard-algorithm)
+  - [Shunting Yard Algorithm](#shunting-yard-algorithm)
 
-  - [[Postfix Expression
-    Evaluation]](#postfix-expression-evaluation)
+  - [Postfix Expression
+    Evaluation](#postfix-expression-evaluation)
 
-- [[Code Structure]](#code-structure)
+- [Code Structure](#code-structure)
 
-- [[Data Structures]](#data-structures)
+- [Data Structures](#data-structures)
 
-- [[Core Functions]](#core-functions)
+- [Core Functions](#core-functions)
 
-- [[Installation and Usage]](#installation-and-usage)
+- [Installation and Usage](#installation-and-usage)
 
-- [[Input/Output Format]](#inputoutput-format)
+- [Input/Output Format](#inputoutput-format)
 
-- [[Examples]](#examples)
+- [Examples](#examples)
 
-- [[Error Handling]](#error-handling)
+- [Error Handling](#error-handling)
 
-- [[Implementation Details]](#implementation-details)
+- [Implementation Details](#implementation-details)
 
-- [[Performance Analysis]](#performance-analysis)
+- [Performance Analysis](#performance-analysis)
 
-- [[Known Limitations]](#known-limitations)
+- [Known Limitations](#known-limitations)
 
-- [[Future Enhancements]](#future-enhancements)
+- [Future Enhancements](#future-enhancements)
 
-- [[Contributing]](#contributing)
+- [Contributing](#contributing)
 
-- [[License]](#license)
+- [License](#license)
 
 **Overview**
 
