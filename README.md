@@ -42,7 +42,6 @@ postfix expression using stack-based evaluation.
 
 - [Contributing](#contributing)
 
-- [License](#license)
 
 ## Overview
 
@@ -589,11 +588,6 @@ Prevents interference between expressions.
 - Check memory leaks with valgrind
 
 - Validate against mathematical calculators
-
-## License
-
-This project is licensed under the MIT License - see the
-[LICENSE.md]
 
 **Technical References**
 
