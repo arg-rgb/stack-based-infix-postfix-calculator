@@ -44,7 +44,7 @@ postfix expression using stack-based evaluation.
 
 - [License](#license)
 
-**## Overview**
+## Overview
 
 This program implements a **stack-based calculator** that processes
 mathematical expressions written in **infix notation** (the standard
