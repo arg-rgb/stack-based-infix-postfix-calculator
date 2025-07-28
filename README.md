@@ -44,7 +44,7 @@ postfix expression using stack-based evaluation.
 
 - [License](#license)
 
-**Overview**
+**## Overview**
 
 This program implements a **stack-based calculator** that processes
 mathematical expressions written in **infix notation** (the standard
@@ -75,7 +75,7 @@ The calculator handles:
 
 4.  **Memory Management**: Dynamic linked list-based stacks
 
-**Features**
+**## Features**
 
 **✅ Supported Operations**
 
@@ -108,7 +108,7 @@ The calculator handles:
 
 - **Error Reporting**: Clear error messages for invalid expressions
 
-**Algorithm Theory**
+**## Algorithm Theory**
 
 **Shunting Yard Algorithm**
 
