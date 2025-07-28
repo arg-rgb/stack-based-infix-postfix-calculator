@@ -7,42 +7,42 @@ postfix expression using stack-based evaluation.
 
 **Table of Contents**
 
-- [[Overview]{.underline}](#overview)
+- [[Overview]](#overview)
 
-- [[Features]{.underline}](#features)
+- [[Features]](#features)
 
-- [[Algorithm Theory]{.underline}](#algorithm-theory)
+- [[Algorithm Theory]](#algorithm-theory)
 
-  - [[Shunting Yard Algorithm]{.underline}](#shunting-yard-algorithm)
+  - [[Shunting Yard Algorithm]](#shunting-yard-algorithm)
 
   - [[Postfix Expression
-    Evaluation]{.underline}](#postfix-expression-evaluation)
+    Evaluation]](#postfix-expression-evaluation)
 
-- [[Code Structure]{.underline}](#code-structure)
+- [[Code Structure]](#code-structure)
 
-- [[Data Structures]{.underline}](#data-structures)
+- [[Data Structures]](#data-structures)
 
-- [[Core Functions]{.underline}](#core-functions)
+- [[Core Functions]](#core-functions)
 
-- [[Installation and Usage]{.underline}](#installation-and-usage)
+- [[Installation and Usage]](#installation-and-usage)
 
-- [[Input/Output Format]{.underline}](#inputoutput-format)
+- [[Input/Output Format]](#inputoutput-format)
 
-- [[Examples]{.underline}](#examples)
+- [[Examples]](#examples)
 
-- [[Error Handling]{.underline}](#error-handling)
+- [[Error Handling]](#error-handling)
 
-- [[Implementation Details]{.underline}](#implementation-details)
+- [[Implementation Details]](#implementation-details)
 
-- [[Performance Analysis]{.underline}](#performance-analysis)
+- [[Performance Analysis]](#performance-analysis)
 
-- [[Known Limitations]{.underline}](#known-limitations)
+- [[Known Limitations]](#known-limitations)
 
-- [[Future Enhancements]{.underline}](#future-enhancements)
+- [[Future Enhancements]](#future-enhancements)
 
-- [[Contributing]{.underline}](#contributing)
+- [[Contributing]](#contributing)
 
-- [[License]{.underline}](#license)
+- [[License]](#license)
 
 **Overview**
 
