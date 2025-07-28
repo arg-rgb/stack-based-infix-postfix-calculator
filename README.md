@@ -593,7 +593,7 @@ Prevents interference between expressions.
 ## License
 
 This project is licensed under the MIT License - see the
-[[LICENSE.md]
+[LICENSE.md]
 
 **Technical References**
 
