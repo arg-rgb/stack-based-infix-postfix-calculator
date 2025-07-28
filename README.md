@@ -7,7 +7,7 @@ postfix expression using stack-based evaluation.
 
 **Table of Contents**
 
-- [[Overview]](#overview)
+- [[Overview]](#**Overview**)
 
 - [[Features]](#features)
 
